@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c46d4f5d-3559-4304-bbc0-f051062aee94" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2y1a627LJF8XDM8QMrr1KMCVhfx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Programa.executor": "Run",
+    "Application.jcouchdb.Programa.executor": "Run",
+    "Application.jfirebase.Programa.executor": "Run",
+    "Application.jredis.Programa.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/estudos_programação/JavaBD/src/jfirebase",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15234375",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\estudos_programação\JavaBD\src\jfirebase" />
+      <recent name="C:\estudos_programação\JavaBD\src\jcouchdb" />
+      <recent name="C:\estudos_programação\JavaBD\src\jredis" />
+      <recent name="C:\estudos_programação\JavaBD\src\jmongodb" />
+      <recent name="C:\estudos_programação\JavaBD\src\jsqlite" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.jfirebase.Programa">
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpostgresql.Programa" />
+      <module name="JavaBD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpostgresql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jcouchdb.Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jcouchdb.Programa" />
+      <module name="JavaBD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jcouchdb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jfirebase.Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jfirebase.Programa" />
+      <module name="JavaBD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jfirebase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jredis.Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jredis.Programa" />
+      <module name="JavaBD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jredis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.jfirebase.Programa" />
+        <item itemvalue="Application.jcouchdb.Programa" />
+        <item itemvalue="Application.jredis.Programa" />
+        <item itemvalue="Application.Programa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c46d4f5d-3559-4304-bbc0-f051062aee94" name="Changes" comment="" />
+      <created>1749004357355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749004357355</updated>
+    </task>
+    <servers />
+  </component>
+</project>
